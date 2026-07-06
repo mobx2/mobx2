@@ -18,6 +18,4 @@ I'm also a Linux Enthusiast passionate about crafting minimal, ultra-fast develo
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/torbrowser" height="48" alt="Tor Browser (OSINT/Privacy)" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/hackthebox" height="48" alt="Hack The Box" />
-&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/wireshark" height="48" alt="Wireshark" />
