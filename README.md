@@ -6,8 +6,7 @@ I'm also a Linux Enthusiast passionate about crafting minimal, ultra-fast develo
 **Tech Stack & Tools:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,supabase,gcp,npm,bash,linux,debian&theme=dark" alt="Ibraheem's Tech Stack" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Google_Play_Console-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Console" />
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://cdn.simpleicons.org/googleplay/414141" height="48" alt="Google Play Console" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="48" alt="React Query" />
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="48" alt="React Router" />
 </p>
