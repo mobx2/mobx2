@@ -1,6 +1,6 @@
 ### Hi there, I'm Ibraheem Shaheen
 
-**I'm currently working as a Full Stack Developer**, building modern web applications with React, Next.js, PostgreSQL, and Supabase.  
+**I'm currently working as a Full Stack Developer**, building modern and efficient web applications with React, Next.js, PostgreSQL, and Supabase.  
 I'm also a Linux Enthusiast passionate about crafting minimal, ultra-fast development environments and cybersecurity. Learning every day to become a professional Pen Tester.
 
 **Languages & Frameworks:**
