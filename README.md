@@ -16,6 +16,8 @@ I'm also a Linux Enthusiast passionate about crafting minimal, ultra-fast develo
 <br/>
 <img src="https://cdn.simpleicons.org/burpsuite" height="48" alt="Burp Suite" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/shodan" height="48" alt="Shodan (OSINT)" />
+<img src="https://cdn.simpleicons.org/torbrowser" height="48" alt="Tor Browser (OSINT/Privacy)" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/hackthebox" height="48" alt="Hack The Box" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/wireshark" height="48" alt="Wireshark" />
